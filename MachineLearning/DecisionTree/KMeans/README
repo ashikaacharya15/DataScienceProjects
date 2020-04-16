@@ -1,8 +1,0 @@
-#KMeans Clustering Algorithm for Image Compression
-
-# Goto the directory where kMeans.py, Koala.jpg and Penguins.jpg are downloaded.
-
-#execute the script
-python kMeans.py
-
-# the output files are available in the same directory.
