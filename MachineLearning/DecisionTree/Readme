@@ -1,3 +1,4 @@
 Machine Learning Projects
 
   1. Implementation of Decision Tree using ID3 Algorithm and its comparison with Scikit-learn Decision Tree in Python.
+  2. Implementation ok K-Means Algorithm for Image compression
